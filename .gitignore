@@ -1,0 +1,10 @@
+.DS_Store
+
+# knitr and R markdown default cache directories
+/*_cache/
+
+# History files
+.Rhistory
+
+# Session Data files
+.RData
